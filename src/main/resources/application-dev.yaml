@@ -65,4 +65,4 @@
       allowed-headers: "*"
 
   bootui:
-    enabled: ON
+    enabled: OFF
