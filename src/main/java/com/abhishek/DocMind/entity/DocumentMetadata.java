@@ -12,7 +12,7 @@ import java.util.UUID;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class DocumentMetaData {
+public class DocumentMetadata {
 
     @Id
     @GeneratedValue(strategy = GenerationType.UUID)

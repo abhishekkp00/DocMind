@@ -1,5 +1,6 @@
 package com.abhishek.DocMind.service;
 
+import com.abhishek.DocMind.dto.DocumentResponseDto;
 import com.abhishek.DocMind.entity.DocumentStatus;
 import com.abhishek.DocMind.exception.DocumentProcessingException;
 import com.abhishek.DocMind.exception.ResourceNotFoundException;

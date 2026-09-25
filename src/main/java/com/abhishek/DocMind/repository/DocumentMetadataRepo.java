@@ -1,6 +1,7 @@
 package com.abhishek.DocMind.repository;
 
 import com.abhishek.DocMind.entity.DocumentStatus;
+import lombok.RequiredArgsConstructor;
 import org.springframework.ai.document.DocumentMetadata;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
